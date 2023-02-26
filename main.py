@@ -19,7 +19,7 @@ def creeer_code():
     return geheime_code
 
 code = creeer_code()
-print("                                              ",code)
+#print("                                              ",code)
 
 def gok():
     """
@@ -167,7 +167,7 @@ def heuristiek():
     Ik heb geen geduld en vind er niets aan om de pinnen te onthouden en op basis van wat ik al heb gevraagd
     dingen te combineren, dus gooi ik een paar random pinnen bij elkaar en hoop op (4,0)
     Het gaat mij niet om het spel, maar om het gezelschap en ik zie het meer als een tijdsverdrijf en heb er
-    daarom ook geen probleem mee om er 9/10 keer mee te verliezen
+    daarom ook geen probleem mee om er 99/100 keer mee te verliezen
     """
     vraag = []
     for i in range(4):
